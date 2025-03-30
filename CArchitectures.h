@@ -1,5 +1,5 @@
 /******************************************************************************
-* \file      CArchitecture.h
+* \file      CArchitectures.h
 * \version   2025.03.18.01
 * \author    Peter Potrok
 * \copyright Copyright (c) 1994 - 2025
@@ -11,8 +11,8 @@
 *            and other resources
 ******************************************************************************/
 
-#ifndef CARCHITECTURE_H
-#define CARCHITECTURE_H		20250318L
+#ifndef CARCHITECTURES_H
+#define CARCHITECTURES_H		20250318L
 
 
 /* All includes. */
@@ -98,4 +98,4 @@
 */
 
 
-#endif /* CARCHITECTURE_H */
+#endif /* CARCHITECTURES_H */
