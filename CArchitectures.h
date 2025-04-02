@@ -16,6 +16,8 @@
 
 
 /* All includes. */
+#include "Architecture6502.h"
+
 #include "ArchitectureAlpha.h"
 #include "ArchitectureAmd64.h"
 #include "ArchitectureArm.h"
@@ -24,6 +26,7 @@
 
 #include "ArchitectureBlackfin.h"
 
+#include "ArchitectureC166.h"
 #include "ArchitectureConvex.h"
 
 #include "ArchitectureElbrus.h"
@@ -40,6 +43,8 @@
 
 #include "ArchitectureLoongArch.h"
 
+#include "ArchitectureMCS51.h"
+#include "ArchitectureMCS251.h"
 #include "ArchitectureMips.h"
 #include "ArchitectureMotorola68k.h"
 

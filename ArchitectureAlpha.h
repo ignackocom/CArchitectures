@@ -15,7 +15,7 @@
 #define ARCHITECTUREALPHA_H     20250318L
 
 
-#define ARCHITECTURE_ALPHA              1
+#define ARCHITECTURE_ALPHA              ((ARCHITECTURE_6502)+1)
 #define ARCHITECTURE_ALPHA_NAME         "Alpha"
 
 #if defined(__alpha) || defined(__alpha__) || defined(_M_ALPHA)

@@ -21,7 +21,7 @@
 #if defined(__arm) || defined(__arm__) || \
     defined(__thumb__) || defined(__TARGET_ARCH_ARM) || \
     defined(__TARGET_ARCH_THUMB) || defined(_ARM) || \
-    defined(_M_ARM) || defined(_M_ARMT)
+    defined(_M_ARM) || defined(_M_ARMT) || defined(__CA__)
 
     #define ARCHITECTURE                ARCHITECTURE_ARM
     #define ARCHITECTURE_NAME           ARCHITECTURE_ARM_NAME

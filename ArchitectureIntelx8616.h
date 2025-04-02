@@ -26,7 +26,7 @@
 
 #endif
 
-#if defined(_M_IX86) && !defined(__386__) && !defined(_M_I386)
+#if defined(_M_IX86) && !defined(__386__) && !defined(_M_I386) && defined(__WATCOMC__)
 
     /* watcomc 16 bit */
     #define ARCHITECTURE                ARCHITECTURE_INTELX86_16

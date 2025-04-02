@@ -15,7 +15,7 @@
 #define ARCHITECTURECONVEX_H        20250318L
 
 
-#define ARCHITECTURE_CONVEX             ((ARCHITECTURE_BLACKFIN)+1)
+#define ARCHITECTURE_CONVEX             ((ARCHITECTURE_C166)+1)
 #define ARCHITECTURE_CONVEX_NAME        "Convex"
 
 #if defined(__convex__)

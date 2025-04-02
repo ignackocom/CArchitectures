@@ -15,7 +15,7 @@
 #define ARCHITECTUREMIPS_H      20250318L
 
 
-#define ARCHITECTURE_MIPS               ((ARCHITECTURE_LOONGARCH)+1)
+#define ARCHITECTURE_MIPS               ((ARCHITECTURE_MCS251)+1)
 #define ARCHITECTURE_MIPS_NAME          "MIPS"
 
 #if defined(__mips__) || defined(mips) || defined(__mips) || defined(__MIPS__)
