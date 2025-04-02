@@ -1,5 +1,5 @@
 # CArchitectures
-C Architecture constants
+C Architecture constants and macros for determining processor architecture
 
 Example of use
 
