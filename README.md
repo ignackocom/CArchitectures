@@ -3,7 +3,7 @@ C Architecture constants and macros for determining processor architecture
 
 Example of use
 
-```
+```c
 #if ARCHITECTURE == 0
 #error "Unknown architecture"
 #endif
