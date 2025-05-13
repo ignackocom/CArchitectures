@@ -2,12 +2,14 @@
 * \file      CArchitectures.h
 * \version   2025.03.18.01
 * \author    Peter Potrok
+*            ignacko.com@outlook.com
 * \copyright Copyright (c) 1994 - 2025
 *            MIT License (see License.txt file)
 * \brief     CPU architecture constant definitions
 * \details
 *
-* \see       https://github.com/cpredef/predef
+* \see       https://github.com/ignackocom
+*			 https://github.com/cpredef/predef
 *            and other resources
 ******************************************************************************/
 
@@ -101,6 +103,17 @@
 * #endif
 * 
 */
+
+
+#ifdef __cplusplus
+extern "C" {
+#endif
+
+	long CARCHITECTURES_VERSION(void);
+
+#ifdef __cplusplus
+}
+#endif
 
 
 #endif /* CARCHITECTURES_H */
