@@ -1,8 +1,9 @@
 /******************************************************************************
 * \file      ArchitectureIntelx8632.h
-* \version   2025.03.18.01
-* \author    Peter Potrok
+* \version   2025.03.18
+* \author    Peter Potrok ( @ignackocom )
 *            ignacko.com@outlook.com
+*			 https://github.com/ignackocom
 * \copyright Copyright (c) 1994 - 2025
 *            MIT License (see License.txt file)
 * \brief     Intel x86 32bit architecture definitions
